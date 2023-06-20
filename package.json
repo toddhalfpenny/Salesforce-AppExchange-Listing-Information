@@ -1,0 +1,15 @@
+{
+  "name": "chrome-extension-salesforce-appx-listing-info",
+  "version": "1.0.0",
+  "description": "Salesforce AppExchange Listing Information",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chrome-types": "^0.1.191"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
