@@ -1,7 +1,7 @@
 {
   "name": "chrome-extension-salesforce-appx-listing-info",
   "version": "1.0.0",
-  "description": "Salesforce AppExchange Listing Information",
+  "description": "Browser extension to get more information about AppExchange Listings",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {

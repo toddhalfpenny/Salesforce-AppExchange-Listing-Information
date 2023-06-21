@@ -1,11 +1,14 @@
 {
-  "name": "Salesforce AppExchange Listing Information",
-  "description": "Further info to AppExchange Listing Pages",
-  "version": "1.0.0",
+  "name": "Salesforce AppExchange Listing Extender",
+  "description": "Get more information about AppExchange Listings",
+  "version": "0.0.1",
   "manifest_version": 3,
   "action": {
     "default_popup": "popup/popup.html",
-    "default_icon": "icon.png"
+    "default_icon": "icon.png",
+    "matches": [
+      "https://appexchange.salesforce.com/appxListingDetail*"
+    ]
   },
   "permissions": [
     "clipboardWrite"   
